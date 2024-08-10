@@ -36,10 +36,7 @@ build/
 dist/
 out/
 
-# React build artifacts
-client/build/
-client/.cache/
-client/.next/
+
 
 # Environment variables
 .env
